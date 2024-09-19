@@ -20,7 +20,7 @@ This project is a simple form validation tool created using HTML, CSS, and JavaS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/form-validator.git
+   git clone https://github.com/DevMaverickMB/form-validator.git
 2. Navigate to the project directory:
    cd form-validator
 3. Open index.html in your web browser to view and interact with the form.
